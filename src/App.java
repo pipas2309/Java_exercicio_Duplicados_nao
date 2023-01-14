@@ -24,7 +24,7 @@ public class App {
         System.out.println("\nA cesta de frutas A tem: " + basketAString);
         System.out.println("\nA cesta de frutas B tem: " + basketBString);
 
-        System.out.println("\nAs frutas que se repetem, caso exista, são: \"" + repetedFruits + " \".");
+        System.out.println("\nAs frutas que se repetem, caso existam, são: \"" + repetedFruits + " \".");
 
 
     }

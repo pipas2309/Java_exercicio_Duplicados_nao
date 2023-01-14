@@ -10,6 +10,7 @@ public class FruitBasket {
         "Mamão", "Mirtilo", "Franboesa",
         "Cereja", "Banana", "Caju"
     };
+    
     private String[] basket = new String[4];
 
     //Usado para calcular o indice das frutas
